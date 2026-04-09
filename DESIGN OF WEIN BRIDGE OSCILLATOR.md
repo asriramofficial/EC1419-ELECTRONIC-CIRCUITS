@@ -14,12 +14,13 @@
 
 
 ## Tabulation
+<img width="1500" height="848" alt="image" src="https://github.com/user-attachments/assets/1209508d-b90b-4491-9bf8-4ea9cd9a3be4" />
 
 ## Graph
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
+Practical frequency of Oscillation =1.59KHz
 
 
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation =1.58KHz
